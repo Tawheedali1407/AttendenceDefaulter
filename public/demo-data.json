@@ -1,0 +1,2660 @@
+{
+  "college": "RGMCET",
+  "program": "B.Tech CSE(AI&ML), II Year I-Sem 2026-27",
+  "faculty": [
+    {
+      "id": "fac-1",
+      "name": "G Chandana Swathi",
+      "department": "CSE(AI&ML)"
+    },
+    {
+      "id": "fac-2",
+      "name": "Dr. K. Ramesh",
+      "department": "CSE(AI&ML)"
+    },
+    {
+      "id": "fac-3",
+      "name": "Prof. S. Lakshmi",
+      "department": "CSE(AI&ML)"
+    },
+    {
+      "id": "fac-4",
+      "name": "Dr. M. Venkatesh",
+      "department": "CSE(AI&ML)"
+    }
+  ],
+  "students": [
+    {
+      "id": "stu-a-01",
+      "registerNumber": "25091A33A01",
+      "name": "Aarav Reddy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-02",
+      "registerNumber": "25091A33A02",
+      "name": "Bhavana Sree",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-03",
+      "registerNumber": "25091A33A03",
+      "name": "Charan Devi",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-04",
+      "registerNumber": "25091A33A04",
+      "name": "Divya Varma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-05",
+      "registerNumber": "25091A33A05",
+      "name": "Eshwar Naidu",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-06",
+      "registerNumber": "25091A33A06",
+      "name": "Farhan Deshmukh",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-07",
+      "registerNumber": "25091A33A07",
+      "name": "Gayathri Kumar",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-08",
+      "registerNumber": "25091A33A08",
+      "name": "Harsha Ali",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-09",
+      "registerNumber": "25091A33A09",
+      "name": "Ishita Rao",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-10",
+      "registerNumber": "25091A33A10",
+      "name": "Jayanth Goud",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-11",
+      "registerNumber": "25091A33A11",
+      "name": "Kavya Kulkarni",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-a-12",
+      "registerNumber": "25091A33A12",
+      "name": "Lokesh Sharma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "A"
+    },
+    {
+      "id": "stu-b-01",
+      "registerNumber": "25091A33B01",
+      "name": "Manasa Prasad",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-02",
+      "registerNumber": "25091A33B02",
+      "name": "Nikhil Vardhan",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-03",
+      "registerNumber": "25091A33B03",
+      "name": "Ojaswi Nair",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-04",
+      "registerNumber": "25091A33B04",
+      "name": "Pranav Murthy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-05",
+      "registerNumber": "25091A33B05",
+      "name": "Qasim Reddy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-06",
+      "registerNumber": "25091A33B06",
+      "name": "Roshni Sree",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-07",
+      "registerNumber": "25091A33B07",
+      "name": "Sanjay Devi",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-08",
+      "registerNumber": "25091A33B08",
+      "name": "Tanvi Varma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-09",
+      "registerNumber": "25091A33B09",
+      "name": "Uday Naidu",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-10",
+      "registerNumber": "25091A33B10",
+      "name": "Vaishnavi Deshmukh",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-11",
+      "registerNumber": "25091A33B11",
+      "name": "Wasim Kumar",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-b-12",
+      "registerNumber": "25091A33B12",
+      "name": "Yamini Ali",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "B"
+    },
+    {
+      "id": "stu-c-01",
+      "registerNumber": "25091A33C01",
+      "name": "Zoya Rao",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-02",
+      "registerNumber": "25091A33C02",
+      "name": "Aditya Goud",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-03",
+      "registerNumber": "25091A33C03",
+      "name": "Bindu Kulkarni",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-04",
+      "registerNumber": "25091A33C04",
+      "name": "Chaitanya Sharma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-05",
+      "registerNumber": "25091A33C05",
+      "name": "Deepika Prasad",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-06",
+      "registerNumber": "25091A33C06",
+      "name": "Gautam Vardhan",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-07",
+      "registerNumber": "25091A33C07",
+      "name": "Hema Nair",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-08",
+      "registerNumber": "25091A33C08",
+      "name": "Irfan Murthy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-09",
+      "registerNumber": "25091A33C09",
+      "name": "Jahnavi Reddy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-10",
+      "registerNumber": "25091A33C10",
+      "name": "Karthik Sree",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-11",
+      "registerNumber": "25091A33C11",
+      "name": "Lavanya Devi",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-c-12",
+      "registerNumber": "25091A33C12",
+      "name": "Madhav Varma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "C"
+    },
+    {
+      "id": "stu-d-01",
+      "registerNumber": "25091A33D01",
+      "name": "Nandini Naidu",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-02",
+      "registerNumber": "25091A33D02",
+      "name": "Omkar Deshmukh",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-03",
+      "registerNumber": "25091A33D03",
+      "name": "Pallavi Kumar",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-04",
+      "registerNumber": "25091A33D04",
+      "name": "Rahul Ali",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-05",
+      "registerNumber": "25091A33D05",
+      "name": "Sahithi Rao",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-06",
+      "registerNumber": "25091A33D06",
+      "name": "Tarun Goud",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-07",
+      "registerNumber": "25091A33D07",
+      "name": "Uma Kulkarni",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-08",
+      "registerNumber": "25091A33D08",
+      "name": "Varun Sharma",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-09",
+      "registerNumber": "25091A33D09",
+      "name": "Akhila Prasad",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-10",
+      "registerNumber": "25091A33D10",
+      "name": "Bharath Vardhan",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-11",
+      "registerNumber": "25091A33D11",
+      "name": "Chandra Nair",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    },
+    {
+      "id": "stu-d-12",
+      "registerNumber": "25091A33D12",
+      "name": "Keerthi Murthy",
+      "branch": "CSE(AI&ML)",
+      "year": "II Year",
+      "section": "D"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "CS302",
+      "name": "OOPJ",
+      "facultyId": "fac-1",
+      "semester": "II Year I-Sem",
+      "section": "A",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS304",
+      "name": "DBMS",
+      "facultyId": "fac-2",
+      "semester": "II Year I-Sem",
+      "section": "A",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS306",
+      "name": "DAA",
+      "facultyId": "fac-3",
+      "semester": "II Year I-Sem",
+      "section": "A",
+      "plannedClasses": 38
+    },
+    {
+      "id": "CS308",
+      "name": "OS",
+      "facultyId": "fac-4",
+      "semester": "II Year I-Sem",
+      "section": "A",
+      "plannedClasses": 36
+    },
+    {
+      "id": "CS302",
+      "name": "OOPJ",
+      "facultyId": "fac-1",
+      "semester": "II Year I-Sem",
+      "section": "B",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS304",
+      "name": "DBMS",
+      "facultyId": "fac-2",
+      "semester": "II Year I-Sem",
+      "section": "B",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS306",
+      "name": "DAA",
+      "facultyId": "fac-3",
+      "semester": "II Year I-Sem",
+      "section": "B",
+      "plannedClasses": 38
+    },
+    {
+      "id": "CS308",
+      "name": "OS",
+      "facultyId": "fac-4",
+      "semester": "II Year I-Sem",
+      "section": "B",
+      "plannedClasses": 36
+    },
+    {
+      "id": "CS302",
+      "name": "OOPJ",
+      "facultyId": "fac-1",
+      "semester": "II Year I-Sem",
+      "section": "C",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS304",
+      "name": "DBMS",
+      "facultyId": "fac-2",
+      "semester": "II Year I-Sem",
+      "section": "C",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS306",
+      "name": "DAA",
+      "facultyId": "fac-3",
+      "semester": "II Year I-Sem",
+      "section": "C",
+      "plannedClasses": 38
+    },
+    {
+      "id": "CS308",
+      "name": "OS",
+      "facultyId": "fac-4",
+      "semester": "II Year I-Sem",
+      "section": "C",
+      "plannedClasses": 36
+    },
+    {
+      "id": "CS302",
+      "name": "OOPJ",
+      "facultyId": "fac-1",
+      "semester": "II Year I-Sem",
+      "section": "D",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS304",
+      "name": "DBMS",
+      "facultyId": "fac-2",
+      "semester": "II Year I-Sem",
+      "section": "D",
+      "plannedClasses": 40
+    },
+    {
+      "id": "CS306",
+      "name": "DAA",
+      "facultyId": "fac-3",
+      "semester": "II Year I-Sem",
+      "section": "D",
+      "plannedClasses": 38
+    },
+    {
+      "id": "CS308",
+      "name": "OS",
+      "facultyId": "fac-4",
+      "semester": "II Year I-Sem",
+      "section": "D",
+      "plannedClasses": 36
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess-a-cs302-2026-09-14",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33A01",
+        "25091A33A04",
+        "25091A33A07",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-09-17",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33A02",
+        "25091A33A05",
+        "25091A33A08",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-09-21",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A06",
+        "25091A33A09",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-09-24",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33A07",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-09-28",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33A08",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-01",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33A05",
+        "25091A33A09",
+        "25091A33A10",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-05",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33A04",
+        "25091A33A06",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-08",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33A07",
+        "25091A33A08",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-12",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33A09",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-15",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-15",
+      "absentees": []
+    },
+    {
+      "id": "sess-a-cs302-2026-10-19",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A05",
+        "25091A33A06",
+        "25091A33A08",
+        "25091A33A10",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs302-2026-10-22",
+      "subjectId": "CS302",
+      "section": "A",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33A07",
+        "25091A33A09"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-09-14",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33A04",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-09-17",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33A02",
+        "25091A33A08",
+        "25091A33A10"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-09-21",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33A06",
+        "25091A33A07",
+        "25091A33A09",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-09-24",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33A05"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-09-28",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-01",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33A08",
+        "25091A33A09",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-05",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A04",
+        "25091A33A06",
+        "25091A33A07",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-08",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-12",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33A05",
+        "25091A33A08",
+        "25091A33A09",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-15",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33A10",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-19",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33A06",
+        "25091A33A07",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs304-2026-10-22",
+      "subjectId": "CS304",
+      "section": "A",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33A08",
+        "25091A33A09",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-09-14",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33A01",
+        "25091A33A04",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-09-17",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33A02",
+        "25091A33A05",
+        "25091A33A07"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-09-21",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A06",
+        "25091A33A08",
+        "25091A33A09",
+        "25091A33A10",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-09-24",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-09-24",
+      "absentees": []
+    },
+    {
+      "id": "sess-a-cs306-2026-09-28",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-01",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33A05",
+        "25091A33A07",
+        "25091A33A08",
+        "25091A33A09",
+        "25091A33A10"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-05",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33A04",
+        "25091A33A06",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-08",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-a-cs306-2026-10-12",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33A09",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-15",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33A07",
+        "25091A33A08",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-19",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A05",
+        "25091A33A06",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs306-2026-10-22",
+      "subjectId": "CS306",
+      "section": "A",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33A09",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-09-14",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33A04",
+        "25091A33A07",
+        "25091A33A08",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-09-17",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33A02",
+        "25091A33A10",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-09-21",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33A06",
+        "25091A33A09",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-09-24",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33A05",
+        "25091A33A08",
+        "25091A33A11"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-09-28",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33A07",
+        "25091A33A10",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-01",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33A09"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-05",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33A03",
+        "25091A33A04",
+        "25091A33A06",
+        "25091A33A08",
+        "25091A33A10",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-08",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-a-cs308-2026-10-12",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33A05",
+        "25091A33A07",
+        "25091A33A09",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-15",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33A08",
+        "25091A33A10"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-19",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33A06",
+        "25091A33A11",
+        "25091A33A12"
+      ]
+    },
+    {
+      "id": "sess-a-cs308-2026-10-22",
+      "subjectId": "CS308",
+      "section": "A",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33A09"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-09-14",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33B01",
+        "25091A33B04",
+        "25091A33B07",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-09-17",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33B02",
+        "25091A33B05",
+        "25091A33B08",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-09-21",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B06",
+        "25091A33B09",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-09-24",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33B07",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-09-28",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33B08",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-01",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33B05",
+        "25091A33B09",
+        "25091A33B10",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-05",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33B04",
+        "25091A33B06",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-08",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33B07",
+        "25091A33B08",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-12",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33B09",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-15",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-15",
+      "absentees": []
+    },
+    {
+      "id": "sess-b-cs302-2026-10-19",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B05",
+        "25091A33B06",
+        "25091A33B08",
+        "25091A33B10",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs302-2026-10-22",
+      "subjectId": "CS302",
+      "section": "B",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33B07",
+        "25091A33B09"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-09-14",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33B04",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-09-17",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33B02",
+        "25091A33B08",
+        "25091A33B10"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-09-21",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33B06",
+        "25091A33B07",
+        "25091A33B09",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-09-24",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33B05"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-09-28",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-01",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33B08",
+        "25091A33B09",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-05",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B04",
+        "25091A33B06",
+        "25091A33B07",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-08",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-12",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33B05",
+        "25091A33B08",
+        "25091A33B09",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-15",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33B10",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-19",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33B06",
+        "25091A33B07",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs304-2026-10-22",
+      "subjectId": "CS304",
+      "section": "B",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33B08",
+        "25091A33B09",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-09-14",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33B01",
+        "25091A33B04",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-09-17",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33B02",
+        "25091A33B05",
+        "25091A33B07"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-09-21",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B06",
+        "25091A33B08",
+        "25091A33B09",
+        "25091A33B10",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-09-24",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-09-24",
+      "absentees": []
+    },
+    {
+      "id": "sess-b-cs306-2026-09-28",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-01",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33B05",
+        "25091A33B07",
+        "25091A33B08",
+        "25091A33B09",
+        "25091A33B10"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-05",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33B04",
+        "25091A33B06",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-08",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-b-cs306-2026-10-12",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33B09",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-15",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33B07",
+        "25091A33B08",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-19",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B05",
+        "25091A33B06",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs306-2026-10-22",
+      "subjectId": "CS306",
+      "section": "B",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33B09",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-09-14",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33B04",
+        "25091A33B07",
+        "25091A33B08",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-09-17",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33B02",
+        "25091A33B10",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-09-21",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33B06",
+        "25091A33B09",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-09-24",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33B05",
+        "25091A33B08",
+        "25091A33B11"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-09-28",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33B07",
+        "25091A33B10",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-01",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33B09"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-05",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33B03",
+        "25091A33B04",
+        "25091A33B06",
+        "25091A33B08",
+        "25091A33B10",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-08",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-b-cs308-2026-10-12",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33B05",
+        "25091A33B07",
+        "25091A33B09",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-15",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33B08",
+        "25091A33B10"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-19",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33B06",
+        "25091A33B11",
+        "25091A33B12"
+      ]
+    },
+    {
+      "id": "sess-b-cs308-2026-10-22",
+      "subjectId": "CS308",
+      "section": "B",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33B09"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-09-14",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33C01",
+        "25091A33C04",
+        "25091A33C07",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-09-17",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33C02",
+        "25091A33C05",
+        "25091A33C08",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-09-21",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C06",
+        "25091A33C09",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-09-24",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33C07",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-09-28",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33C08",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-01",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33C05",
+        "25091A33C09",
+        "25091A33C10",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-05",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33C04",
+        "25091A33C06",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-08",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33C07",
+        "25091A33C08",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-12",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33C09",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-15",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-15",
+      "absentees": []
+    },
+    {
+      "id": "sess-c-cs302-2026-10-19",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C05",
+        "25091A33C06",
+        "25091A33C08",
+        "25091A33C10",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs302-2026-10-22",
+      "subjectId": "CS302",
+      "section": "C",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33C07",
+        "25091A33C09"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-09-14",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33C04",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-09-17",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33C02",
+        "25091A33C08",
+        "25091A33C10"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-09-21",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33C06",
+        "25091A33C07",
+        "25091A33C09",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-09-24",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33C05"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-09-28",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-01",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33C08",
+        "25091A33C09",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-05",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C04",
+        "25091A33C06",
+        "25091A33C07",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-08",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-12",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33C05",
+        "25091A33C08",
+        "25091A33C09",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-15",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33C10",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-19",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33C06",
+        "25091A33C07",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs304-2026-10-22",
+      "subjectId": "CS304",
+      "section": "C",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33C08",
+        "25091A33C09",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-09-14",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33C01",
+        "25091A33C04",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-09-17",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33C02",
+        "25091A33C05",
+        "25091A33C07"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-09-21",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C06",
+        "25091A33C08",
+        "25091A33C09",
+        "25091A33C10",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-09-24",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-09-24",
+      "absentees": []
+    },
+    {
+      "id": "sess-c-cs306-2026-09-28",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-01",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33C05",
+        "25091A33C07",
+        "25091A33C08",
+        "25091A33C09",
+        "25091A33C10"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-05",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33C04",
+        "25091A33C06",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-08",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-c-cs306-2026-10-12",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33C09",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-15",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33C07",
+        "25091A33C08",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-19",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C05",
+        "25091A33C06",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs306-2026-10-22",
+      "subjectId": "CS306",
+      "section": "C",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33C09",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-09-14",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33C04",
+        "25091A33C07",
+        "25091A33C08",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-09-17",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33C02",
+        "25091A33C10",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-09-21",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33C06",
+        "25091A33C09",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-09-24",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33C05",
+        "25091A33C08",
+        "25091A33C11"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-09-28",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33C07",
+        "25091A33C10",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-01",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33C09"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-05",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33C03",
+        "25091A33C04",
+        "25091A33C06",
+        "25091A33C08",
+        "25091A33C10",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-08",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-c-cs308-2026-10-12",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33C05",
+        "25091A33C07",
+        "25091A33C09",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-15",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33C08",
+        "25091A33C10"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-19",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33C06",
+        "25091A33C11",
+        "25091A33C12"
+      ]
+    },
+    {
+      "id": "sess-c-cs308-2026-10-22",
+      "subjectId": "CS308",
+      "section": "C",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33C09"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-09-14",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33D01",
+        "25091A33D04",
+        "25091A33D07",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-09-17",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33D02",
+        "25091A33D05",
+        "25091A33D08",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-09-21",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D06",
+        "25091A33D09",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-09-24",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33D07",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-09-28",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33D08",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-01",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33D05",
+        "25091A33D09",
+        "25091A33D10",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-05",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33D04",
+        "25091A33D06",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-08",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33D07",
+        "25091A33D08",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-12",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33D09",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-15",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-15",
+      "absentees": []
+    },
+    {
+      "id": "sess-d-cs302-2026-10-19",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D05",
+        "25091A33D06",
+        "25091A33D08",
+        "25091A33D10",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs302-2026-10-22",
+      "subjectId": "CS302",
+      "section": "D",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33D07",
+        "25091A33D09"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-09-14",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33D04",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-09-17",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33D02",
+        "25091A33D08",
+        "25091A33D10"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-09-21",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33D06",
+        "25091A33D07",
+        "25091A33D09",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-09-24",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33D05"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-09-28",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-01",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33D08",
+        "25091A33D09",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-05",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D04",
+        "25091A33D06",
+        "25091A33D07",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-08",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-08",
+      "absentees": [
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-12",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33D05",
+        "25091A33D08",
+        "25091A33D09",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-15",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33D10",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-19",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33D06",
+        "25091A33D07",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs304-2026-10-22",
+      "subjectId": "CS304",
+      "section": "D",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33D08",
+        "25091A33D09",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-09-14",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33D01",
+        "25091A33D04",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-09-17",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33D02",
+        "25091A33D05",
+        "25091A33D07"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-09-21",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D06",
+        "25091A33D08",
+        "25091A33D09",
+        "25091A33D10",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-09-24",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-09-24",
+      "absentees": []
+    },
+    {
+      "id": "sess-d-cs306-2026-09-28",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-01",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33D05",
+        "25091A33D07",
+        "25091A33D08",
+        "25091A33D09",
+        "25091A33D10"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-05",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33D04",
+        "25091A33D06",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-08",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-d-cs306-2026-10-12",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33D09",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-15",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33D07",
+        "25091A33D08",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-19",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D05",
+        "25091A33D06",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs306-2026-10-22",
+      "subjectId": "CS306",
+      "section": "D",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33D09",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-09-14",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-09-14",
+      "absentees": [
+        "25091A33D04",
+        "25091A33D07",
+        "25091A33D08",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-09-17",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-09-17",
+      "absentees": [
+        "25091A33D02",
+        "25091A33D10",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-09-21",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-09-21",
+      "absentees": [
+        "25091A33D06",
+        "25091A33D09",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-09-24",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-09-24",
+      "absentees": [
+        "25091A33D05",
+        "25091A33D08",
+        "25091A33D11"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-09-28",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-09-28",
+      "absentees": [
+        "25091A33D07",
+        "25091A33D10",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-01",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-01",
+      "absentees": [
+        "25091A33D09"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-05",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-05",
+      "absentees": [
+        "25091A33D03",
+        "25091A33D04",
+        "25091A33D06",
+        "25091A33D08",
+        "25091A33D10",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-08",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-08",
+      "absentees": []
+    },
+    {
+      "id": "sess-d-cs308-2026-10-12",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-12",
+      "absentees": [
+        "25091A33D05",
+        "25091A33D07",
+        "25091A33D09",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-15",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-15",
+      "absentees": [
+        "25091A33D08",
+        "25091A33D10"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-19",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-19",
+      "absentees": [
+        "25091A33D06",
+        "25091A33D11",
+        "25091A33D12"
+      ]
+    },
+    {
+      "id": "sess-d-cs308-2026-10-22",
+      "subjectId": "CS308",
+      "section": "D",
+      "date": "2026-10-22",
+      "absentees": [
+        "25091A33D09"
+      ]
+    }
+  ]
+}

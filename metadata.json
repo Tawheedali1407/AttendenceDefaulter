@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Defaulter List Generator — RGMCET",
+  "description": "Responsive academic attendance tracking, recovery calculation, and defaulter list generator for RGMCET with Admin, Faculty, and Student portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
